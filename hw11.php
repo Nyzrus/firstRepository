@@ -4,9 +4,7 @@ firstRepository
 	"http://w1.weather.gov/xml/current_obs/KBOS.xml" => "Boston",
 	"http://w1.weather.gov/xml/current_obs/KJFK.xml" => "New York"
 	);
-?>
-
-<?php $rssURLSForNews = array(
+$rssURLSForNews = array(
 	"http://rss.cnn.com/rss/cnn_topstories.rss" => "CNN",
 	"http://www.nytimes.com/services/xml/rss/nyt/InternationalHome.xml" => "NY Times"
 	);
